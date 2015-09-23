@@ -29,4 +29,8 @@ client = pysensu.Pysensu(
 )
 ```
 
+- Run the script
 
+```
+$ python sensu-q.py
+```
